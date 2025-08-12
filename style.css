@@ -30,6 +30,8 @@ body {
 
 .foto {
     width: 35%;
+    height: 50%;
+    object-fit: cover;
     border-radius: 50%;
 }
 
